@@ -11,3 +11,5 @@ js0730@student.uni-lj.si
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+Inline `code` has `back-ticks around` it.
