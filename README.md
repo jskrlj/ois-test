@@ -4,8 +4,6 @@ Kratek opis vaj IS.
 * f2
 
 
-Janez Skrlj
-js0730@student.uni-lj.si
 
 ```javascript
 var s = "JavaScript syntax highlighting";
